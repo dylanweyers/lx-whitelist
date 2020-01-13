@@ -1,2 +1,3 @@
-# lx-addons
-A collection of my (Lux) addons that I have made for Garry's Mod in the recent years.
+# lx-whitelist
+A simple, easy to use job whitelist for Garry's Mod roleplay gamemodes.
+There is a small configuration file, however it is a plug-n-play addon, meaning all you have to do to use it is drag the file into your addons directory and restart your server.
