@@ -1,0 +1,1 @@
+Config is in lua/lux_whitelist_config.lua
