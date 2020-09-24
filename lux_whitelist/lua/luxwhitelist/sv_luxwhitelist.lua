@@ -1,6 +1,6 @@
 //-- Read the config file
 
-//-- Some definitions for my script to work
+//-- Pooling net messages
 
 util.AddNetworkString( "lx_wlist_noti" )
 util.AddNetworkString( "cl_request_wlist_refresh" )
